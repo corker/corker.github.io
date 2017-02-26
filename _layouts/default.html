@@ -3,11 +3,15 @@
 
 {% include head.html %}
 
+{% include disqus-count.html %}
+
 <body>
 
     {% include nav.html %}
 
     {{ content }}
+
+    {% include disqus.html %}
 
     {% include footer.html %}
 
