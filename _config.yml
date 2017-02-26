@@ -1,7 +1,7 @@
 # Site settings
 title: Occasionally Consistent
 header-img: img/home-bg.jpg
-email: corker@inbox.ru
+email: michael0borisov@gmail.com
 copyright_name: Michael Borisov
 description: "Michael Borisov - software engineering blog - CQRS, DDD, TDD, BDD, micro services, event store, event driven architecture."
 baseurl: ""
@@ -9,7 +9,7 @@ url: "https://corker.github.io"
 twitter_username: fkem
 github_username:  corker
 facebook_username:  bmborisov
-email_username:  corker@inbox.ru
+email_username:  michael0borisov@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
